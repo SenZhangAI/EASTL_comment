@@ -11,3 +11,6 @@ tmp/*
 *~
 *.a
 *.exe
+
+tags
+cscope.*
